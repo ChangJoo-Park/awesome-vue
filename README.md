@@ -285,6 +285,7 @@
   - [Vue route ★73](https://github.com/ayamflow/vue-route), ng-view inspired routes for Vue by @ayamflow
   - [**voie ★130**](https://github.com/inca/voie) — simple router / layout manager inspired by FSMs and ui-router by [Boris Okunskiy](https://github.com/inca)<sup>1.0</sup>
   - [vue-script2 ★6](https://github.com/taoeffect/vue-script2) - Load route-specific code or vendor scripts with a `<script>`-like tag, by @taoeffect
+  - [vue-update](https://github.com/ZeroDark1991/vue-update) - provides extra hook for data-updating, by @ZeroDark1991  
 
 - #### Ajax/Data
 
@@ -333,6 +334,7 @@
   - [Vue-Easy-Validator](https://github.com/MetinSeylan/Vue-Easy-Validator) - Fast-Easy client side form validation for Vuejs 2 [@MetinSeylan](https://github.com/MetinSeylan)
   - [vue-contextable](https://github.com/xpepermint/vue-contextable): [Contextable.js](https://github.com/xpepermint/contextablejs) plugin for Vue.js 2.0. Form validation has never been easier!
   - [**vuelidate ★43**](https://github.com/monterail/vuelidate) - Simple, lightweight model-based validation for Vue.js by @monterail <sup>2.0 compatible</sup>
+  - [**simple-vue-validator ★17**](https://github.com/semisleep/simple-vue-validator) - Simple, yet flexible solution aimed to support both basic and complex validation scenarios <sup>2.0 compatible</sup>
 
 - #### UI Components
 
@@ -454,6 +456,7 @@
   - [vue-parallax](https://github.com/apertureless/vue-parallax): 60 FPS Parallax scroll effect for Vue.js 2 <sup>2.1+</sup>
   - [vue-quill-editor ★](https://github.com/surmon-china/vue-quill-editor) Quill editor component for Vue2  [@Surmon](https://github.com/surmon-china)
   - [vue-drag-zone ★](https://github.com/surmon-china/vue-drag-zone) Dom Drag Zone component for Vue.js(2.x)  [@Surmon](https://github.com/surmon-china)
+  - [Vuep](https://github.com/QingWei-Li/vuep) A component for rendering Vue components with live editor and preview.<sup>2.0</sup>
 
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
@@ -467,6 +470,7 @@
   - [vue-translate ★1](https://github.com/javisperez/vuetranslate): A small and basic translation plugin for Vue.js <sup>1.x, 2.0.x compatible</sup> by @javisperez
   - [vuex-i18n ★1](https://github.com/dkfbasel/vuex-i18n): Internationalization made simple with vue and vuex <sup>Vue.js 2.0.x</sup> by @dkfbasel
   - [vue-gettext ★11](https://github.com/Polyconseil/vue-gettext): Translate your Vue.js applications with gettext <sup>Vue.js 2.0.x</sup>
+  - [vuejs-carousel](https://github.com/ludo237/vuejs-carousel): Complete photo carousel build with VueJS and web standards in mind<sup>VueJs 2.1.6+</sup>
 
 - #### Analytics
   - [**vue-ua [![GitHub stars](https://img.shields.io/github/stars/ScreamZ/vue-analytics.svg)](https://github.com/ScreamZ/vue-analytics)**](https://github.com/ScreamZ/vue-analytics): Google Universal Analytics implementation for Vue.JS 2+
@@ -515,6 +519,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-memo](https://github.com/akifo/vue-memo) a simple demo build with Vue.js(>2.x.), vue-router(>2.x.), vuex(>2.x.), vuex-router-sync@next(>3.x.) and Firebase(>3.6.x) by [akifo](https://github.com/akifo)
   - [Resume Vue](https://github.com/ChangJoo-Park/Resume-Vue) JSON based Resume based on Vue 2.0 by [ChangJoo Park](https://github.com/ChangJoo-Park/)
   - [**App example with JWT Authentication**](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) developed with [**Phoenix Framework**](http://phoenixframework.org), **Vue** and **Vue Router** ([_**demo**_](https://phoenix-vue-auth.herokuapp.com)) by [@Angarsk8](https://github.com/Angarsk8)
+  - [Sample CRUD app with router in Vue 2.0](https://github.com/shershen08/vue.js-v2-crud-application) by [@shershen08](https://github.com/shershen08)
 
 - #### Boilerplates
 
@@ -682,6 +687,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - #### Talks
 
   - [Vue unit tests](http://www.slideshare.net/coulix/vuejs-testing) by [coulix](https://github.com/coulix)
+  - [Vue.js: A simple and great choice - London VueJS #2, talk by Blake Newman](https://www.youtube.com/watch?v=n1Xm6xjjlio)
+  - [VueJS - ViennaJS July 2016](https://www.youtube.com/watch?v=jqljIc66pLQ)
 
 ### Projects Using Vue.js
 
